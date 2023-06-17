@@ -1,10 +1,11 @@
 import React from "react";
 import GifAPI from "./GifAPI";
 
+// format API information
 function GifCard() {
     return (  
         <div>
-            // format API information
+           
         </div>
     );
 }
